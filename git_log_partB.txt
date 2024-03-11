@@ -1,0 +1,105 @@
+commit 322f6ce6deb558c39d2086d68ea88321288dc1d9
+Author: srihar968sha <hsri6312@gmail.com>
+Date:   Mon Mar 11 13:07:33 2024 +0530
+
+    re adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..ad33525
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2nd year creative secretary
+\ No newline at end of file
+
+commit 71e434116976f43af7b6808dcc3a2d37a49d960c
+Author: srihar968sha <hsri6312@gmail.com>
+Date:   Mon Mar 11 13:04:13 2024 +0530
+
+    deleted file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index af63601..936ad20 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ sriharsha talluri
+ paradise restaurant 
+-salaar movie
+\ No newline at end of file
++salaar movie
++blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index ad33525..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2nd year creative secretary
+\ No newline at end of file
+
+commit 60c66188f16bfc39e171dbfc7c68fc85f7473470
+Author: srihar968sha <hsri6312@gmail.com>
+Date:   Mon Mar 11 13:01:35 2024 +0530
+
+    i created file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..ad33525
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2nd year creative secretary
+\ No newline at end of file
+
+commit 4038e0fc0445fe5722a6ac4d2ba222818eb2e6ef
+Author: srihar968sha <hsri6312@gmail.com>
+Date:   Mon Mar 11 12:54:54 2024 +0530
+
+    added favorite restuarnt and movie
+
+diff --git a/file1.txt b/file1.txt
+index 267abdb..af63601 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+-sriharsha talluri
+\ No newline at end of file
++sriharsha talluri
++paradise restaurant 
++salaar movie
+\ No newline at end of file
+
+commit 78a0c1322545b68bc73d1de5eb0345a0d189fbef
+Author: srihar968sha <hsri6312@gmail.com>
+Date:   Mon Mar 11 12:53:31 2024 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index fbfd8e1..267abdb 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-sriharsha Bt22cse124
+\ No newline at end of file
++sriharsha talluri
+\ No newline at end of file
+
+commit 4bd0dc4fc7091e2ca373651436754bb892fad673
+Author: srihar968sha <hsri6312@gmail.com>
+Date:   Mon Mar 11 12:48:28 2024 +0530
+
+    commiting a new file by my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..fbfd8e1
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++sriharsha Bt22cse124
+\ No newline at end of file
